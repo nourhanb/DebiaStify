@@ -1,2 +1,2 @@
 # DebiaStify
-[Under-Review] Readme file will be updated later upon acceptance. 
+[Under Review] The README file will be updated after acceptance.
